@@ -3,7 +3,7 @@
 ;				(lambda (<identifier*>) <LcExpr>)|
 ;				(<LcExpr> <LcExpr>)|
 ;				(if <LcExpr> <LcExpr> <LcExpr>)|
-;				(let ((<identifier> <LcExpr>)+) <LcExpr>)|
+;				(let ((<identifier> <LcExpr>)+) <LcExpr>)| ; where + means 1 or more
 ;				(set! <indentifier> <lcExpr>)
 				
 
